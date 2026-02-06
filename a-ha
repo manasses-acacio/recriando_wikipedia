@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>A-ha</title>
     <link rel="stylesheet" href="css/style.css">
+    <a href="indedx.html">voltar pagina inicial</a>
     
 </head>
 <body>
@@ -95,6 +96,5 @@
     <div class="footer">
 
     </div>
-    
 </body>
 </html>
