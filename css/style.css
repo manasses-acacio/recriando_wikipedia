@@ -22,10 +22,12 @@ a { color:blue; text-decoration: none;}
     padding-left: 1rem;
     padding-right: 1rem;
 }
-.footer {
-    min-height: 100px;
-    border-top: solid 1px #cdcdcd;
+footer {
+    background-color: rgb(210, 232, 244);
+    width: 100%;
+    height: 250px;
 }
+
 .anchors {
     border-left: solid 1px #cdcdcd;
     padding-left: 15px;
